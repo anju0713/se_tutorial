@@ -1,1 +1,20 @@
+User:Administration officer, faculty and student
 
+User Stories:
+
+Administration: As an administrator, I want to create a user name and password to the other roles of user so that it would help in smoother running of the institute.
+
+Officers: As an officer, I want to know the details of the students that I can generate reports including the student status, courses, addition, dectition etc...
+
+Faculty: As a faculty, I want the student to choose their faculty and pass on details so that I can share timetable, course material
+
+Student: As a student, I want to register myself so that I can get the course timetable and course material
+
+Issues: 
+All are Independent and one cannot move forward unless previous work is done
+ The student has to choose our courses and faculty carefully
+ 
+ Milestones: 
+  Getting a username and password
+   Registration for the course choosing the required courses and faculty able to see all details of due hostel automatic etc..
+   Got required timetable
